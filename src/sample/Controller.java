@@ -28,6 +28,7 @@ public class Controller implements Runnable {
             txtinfo.clear();
             ping();
         });
+        // 5675757
     }
 
     public void ping() {
