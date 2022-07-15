@@ -12,7 +12,7 @@
       <element id="extracted-dir" path="$PROJECT_DIR$/li/javafx-sdk-17.0.1/lib/javafx.controls.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/li/javafx-sdk-17.0.1/lib/javafx.graphics.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/li/jsoup-1.14.3.jar" path-in-jar="/" />
-      <element id="dir-copy" path="$USER_HOME$/IdeaProjects/library/javafx-sdk-17.0.1/bin" />
+      <element id="dir-copy" path="$PROJECT_DIR$/li/javafx-sdk-17.0.1/bin" />
     </root>
   </artifact>
 </component>
